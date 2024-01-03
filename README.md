@@ -1,7 +1,18 @@
 # WordScramble - An Interactive Word Game
 
 ## Overview
-WordScramble is a fun and educational game where players are challenged to form as many words as possible from a given root word. The game combines vocabulary skills with strategic thinking, providing an engaging way for players to enhance their word formation abilities.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/WordScramble/assets/123434744/29af15f9-1b7f-48d0-92a2-1796ec134a8d" alt="WordScramble App Demo" width="300" />
+    </td>
+    <td>
+      WordScramble is a fun and educational game where players are challenged to form as many words as possible from a given root word. The game combines vocabulary skills with strategic thinking, providing an engaging way for players to enhance their word formation abilities.
+    <br><br>
+<em><b>Please Note:</b> This project demo was created and recorded in Swift Playgrounds on iPad, leading to an aspect ratio that may differ from the latest iPhone models.</em>
+    </td>
+  </tr>
+</table>
 
 ## Features
 - **Word Formation**: Players create new words using letters from a root word displayed at the top.
@@ -26,3 +37,5 @@ WordScramble is a fun and educational game where players are challenged to form 
 Note: This project is a part of the "100 Days of SwiftUI" course, designed and implemented by me as part of my iOS development learning journey.
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)
