@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/penguin-waddle/WordScramble/assets/123434744/29af15f9-1b7f-48d0-92a2-1796ec134a8d" alt="WordScramble App Demo" width="300" />
+      <img src="https://github.com/penguin-waddle/WordScramble/assets/123434744/29af15f9-1b7f-48d0-92a2-1796ec134a8d" alt="WordScramble App Demo" width="2100" />
     </td>
     <td>
       WordScramble is a fun and educational game where players are challenged to form as many words as possible from a given root word. The game combines vocabulary skills with strategic thinking, providing an engaging way for players to enhance their word formation abilities.
